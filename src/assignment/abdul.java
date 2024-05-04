@@ -6,7 +6,7 @@ package assignment;
 	String name1="Abdul";
 	System.out.println(name);
 	System.out.println(name1);
-	System.out.println(name2);	
+	ststem.out.println(name3);	
 	}
 		}
 
